@@ -1,0 +1,9 @@
+{
+     "เปิดโฟลเดอร์": "start explorer",
+     "เปิด YouTube": "start https://youtube.com",
+     "ปิดคอม": "shutdown /s /f /t 0",
+     "เปิด Notepad": "notepad",
+     "ออก": "exit",
+     "เปิด gpt": "start chatgpt"
+   }
+   
