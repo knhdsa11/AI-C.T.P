@@ -23,6 +23,7 @@ class VoiceAssistantApp(App):
 
         # ปุ่มสำหรับเริ่มฟังคำสั่ง
         listen_button = Button(text="Start Listening", font_size='20sp', size_hint=(1, 0.2))
+        listen_button.bind(on_press=self.start_listening)
         layout.add_widget(listen_button)
 
         # ปุ่มสำหรับหยุดฟัง
