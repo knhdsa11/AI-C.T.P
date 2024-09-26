@@ -4,6 +4,7 @@
      "ปิดคอม": "shutdown /s /f /t 0",
      "เปิด Notepad": "notepad",
      "ออก": "exit",
-     "เปิด gpt": "start chatgpt"
+     "เปิด gpt": "start chatgpt",
+     "เปิด Facebook": "start https://www.facebook.com/"
    }
    
